@@ -9,11 +9,20 @@ Using PySpark and performing ETL within a Amazon reviews based on Tools database
 After running our metrics and creating data frames we have found the following results below.
 
 o	Total Vine reviews = 285
+
 o	Total non-Vine reviews = 31,545
+
 o	Vine 5 Star reviews = 163
+
 o	Non-Vine 5 Star reviews = 14,614
+
 o	5-star Vine review percentage = 57.2%
+
 o	5-star non-Vine review percentage = 46.3%
+
+![Screenshot (100)](https://user-images.githubusercontent.com/81484054/128611876-69b75d08-df10-436f-a48e-289e76084182.png)
+
+
 
 # Summary: 
 
