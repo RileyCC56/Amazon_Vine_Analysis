@@ -1,6 +1,6 @@
 # Overview:
 
-The following analysis focuses on the Amazon Vine program that measures the difference between member and non-member participants. 
+The following analysis focuses on the Amazon Vine program that measures the difference between member and non-member participants to determine if there is any bias toward favorable reviews from Vine members 
 
 Using PySpark and performing ETL within a Amazon reviews based on Tools database we have connected the AWS RDS and pgAdmin to determine the differences. 
 
