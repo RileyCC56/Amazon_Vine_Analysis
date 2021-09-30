@@ -2,6 +2,10 @@
 
 The following analysis focuses on the Amazon Vine program that measures the difference between member and non-member participants to determine if there is any bias toward favorable reviews from Vine members. 
 
+The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
+
+Having access to approximately 50 different Amazon product datasets, each one contains reviews of a specific product, from clothing apparel to wireless products. 
+
 Using PySpark and performing ETL within a Amazon reviews based on Tools database we have connected the AWS RDS and pgAdmin to determine the differences. 
 
 # Results: 
