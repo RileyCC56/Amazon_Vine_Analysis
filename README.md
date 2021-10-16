@@ -9,7 +9,7 @@ Having access to approximately 50 different Amazon product datasets, each one co
 Using PySpark and performing ETL within a Amazon reviews based on Tools database we have connected the AWS RDS and pgAdmin to determine the differences. 
 
 ## Technology Used:
-PySpark, Amazon Web Services, Python, Pandas
+PySpark, Amazon Web Services, Amazon RDS, Amazon S3, Python, Pandas
 
 # Results: 
 
